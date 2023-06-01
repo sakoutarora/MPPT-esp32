@@ -1,8 +1,8 @@
-# MPPT-esp32
+## MPPT-esp32
 
-hardware in loop code for advance FOCV MPPT 
+# hardware in loop code for advance FOCV MPPT 
 
-=> FreeRTOS 
-=> ESP32 
-=> UART 
-=> HTTP 
+# FreeRTOS 
+# ESP32 
+# UART 
+# HTTP 
